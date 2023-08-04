@@ -1,2 +1,2 @@
 # Back-To-Animation
-Rethinking Animation for the future
+Rethinking animation for the future
